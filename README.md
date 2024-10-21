@@ -47,10 +47,6 @@ This is a Discord bot designed to perform various tasks, including creating poll
 
 1. **Clone the repository**
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
 
 2. **Install dependencies**
 
